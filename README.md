@@ -1,6 +1,6 @@
 # Billiard Vision & Trajectory Analysis
 
-[![CI](https://github.com/guillaumesaintpierre/billiard-vision-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/guillaumesaintpierre/billiard-vision-analysis/actions/workflows/ci.yml)
+[![CI](https://github.com/LGOSSET-21/billiard-vision-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/LGOSSET-21/billiard-vision-analysis/actions/workflows/ci.yml)
 
 Multi-language engineering pipeline for automatic analysis of **three-cushion billiards** using **LabVIEW, C and MATLAB**.
 
@@ -300,6 +300,18 @@ Developed collaboratively by:
 - **Guillaume Saint-Pierre**
 - **Louis Gosset**
 - **Joseph Belamich**
+
+## Original Collaborative Repository
+
+This repository is Louis Gosset's portfolio copy of the EPFL team project developed by **Guillaume Saint-Pierre, Louis Gosset and Joseph Belamich**. The original Git history is preserved to retain commit authorship and attribution.
+
+Original collaborative repository: [guillaumesaintpierre/billiard-vision-analysis](https://github.com/guillaumesaintpierre/billiard-vision-analysis).
+
+The technical descriptions above refer to the team's work as a whole.
+
+## My contributions
+
+**To be completed by Louis Gosset:** add only confirmed personal contributions, specifying the components, tasks or deliverables personally worked on. Individual responsibilities have not yet been documented here; no personal contribution is claimed by this placeholder.
 
 ## Academic Context
 
