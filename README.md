@@ -312,7 +312,12 @@ The technical descriptions above refer to the team's work as a whole.
 
 ## My contributions
 
-**To be completed by Louis Gosset:** add only confirmed personal contributions, specifying the components, tasks or deliverables personally worked on. Individual responsibilities have not yet been documented here; no personal contribution is claimed by this placeholder.
+I contributed across the project’s development, working alongside Guillaume Saint-Pierre and Joseph Belamich on:
+
+- **Development:** Contributed to the LabVIEW, C and MATLAB components, covering image processing, ball detection and trajectory analysis.
+- **Testing and refinement:** Helped test the pipeline, analyse its outputs and identify issues to improve the overall results.
+- **Integration and documentation:** Participated in connecting the processing stages and preparing the project documentation.
+
 
 ## Academic Context
 
