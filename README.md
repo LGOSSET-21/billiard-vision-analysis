@@ -15,6 +15,13 @@ The system processes image sequences, detects the billiard table and ball positi
 
 > Developed as a three-person EPFL Mechanical Engineering project by Guillaume Saint-Pierre, Louis Gosset and Joseph Belamich.
 
+## Project Reports
+
+- [English report (PDF)](docs/project-report-en.pdf)
+- [Original French report (PDF)](docs/project-report-fr.pdf)
+
+The English report translates the original team documentation and credits Guillaume Saint-Pierre, Louis Gosset and Joseph Belamich. It preserves the historical description; some filenames and error codes differ from the current repository implementation.
+
 ## Overview
 
 The project is organized as a complete cross-environment processing pipeline:
@@ -256,6 +263,7 @@ billiard-vision-analysis/
 │   └── workflows/
 │       └── ci.yml
 ├── docs/
+│   ├── project-report-en.pdf
 │   ├── project-report-fr.pdf
 │   └── screenshots/
 │       └── scoresheet-t1.png
